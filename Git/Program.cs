@@ -6,7 +6,7 @@ namespace Git
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(268/2-18);
+            Console.WriteLine((268/2)-(18+15));
         }
     }
 }
